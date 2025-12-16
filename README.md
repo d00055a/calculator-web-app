@@ -1,15 +1,64 @@
-# Calculator web page
+# Calculator Web Page
 
-This web page offers a simple calculator that performs basic operations with mathematical operators such as +, −, ×, and ÷, 
-as well as a more advanced calculator that computes sin, cos, tan, and cot of a given angle in radians.
+A simple and interactive **Calculator web application** built with **HTML, CSS, and Vanilla JavaScript**, featuring both a basic and a scientific calculator.
 
-Technologies used:
-- HTML5 --> for structuring the content
-- CSS3 --> for styling and responsiveness
-- JavaScript (Vanilla) --> Functionality, interactivity and event handling
-- Git & GitHub --> for version control and hosting
-- GitHub Pages --> for live deployment
+This project demonstrates core JavaScript logic, DOM manipulation and user interaction handling.
 
-Live Demo : view here --> (https://d00055a.github.io/Calculator-web-page/)
+## Features
+
+**Basic Calculator**
+
+- Addition (+)
+
+- Subtraction (−)
+
+- Multiplication (×)
+
+- Division (÷)
+
+**Scientific Calculator**
+
+- Trigonometric calculations:
+
+   - sin
+     
+   - cos
+
+   - tan
+
+   - cot
+
+- Angle input in **radians**
+
+  
+## Techn Stack
+
+- **HTML5** – Page structure
+
+- **CSS3** – Styling and responsive layout
+
+- **JavaScript (Vanilla)** – Application logic, calculations, event handling
+
+- **Git & GitHub** – Version control
+
+- **GitHub Page**s – Live deployment
+
+## Live Demo
+
+View here --> (https://d00055a.github.io/Calculator-web-page/)
+
+## Purpose
+
+This project was built to practice and demonstrate:
+
+- JavaScript arithmetic and trigonometric functions
+
+- DOM manipulation
+
+- Event handling
+
+- Clean UI structure with HTML & CSS
+
+<br/><br/>
 
 License © 2025 Daniel Dedja. All rights reserved.
