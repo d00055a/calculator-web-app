@@ -58,7 +58,3 @@ This project was built to practice and demonstrate:
 - Event handling
 
 - Clean UI structure with HTML & CSS
-
-<br/><br/>
-
-License © 2025 Daniel Dedja. All rights reserved.
