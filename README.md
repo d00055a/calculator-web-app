@@ -45,7 +45,7 @@ This project demonstrates core JavaScript logic, DOM manipulation and user inter
 
 ## Live Demo
 
-View here --> (https://d00055a.github.io/Calculator-web-page/)
+View here --> (https://d00055a.github.io/calculator-web-app/)
 
 ## Purpose
 
